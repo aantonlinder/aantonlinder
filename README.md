@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anton!
 - 👀 I’m a UX-designer and Front-end development.
-- 🌱 I’m currently working at Knightec AB as a UX-designer and I am developing my knowledge within front-end development.
 
 - 📫 How to reach me: Hello@antonlinder.com
 - Want to know more? Have a look at my portfolio 🦖 www.antonlinder.com 🦖
